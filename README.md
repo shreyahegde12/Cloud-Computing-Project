@@ -9,4 +9,4 @@
 # 4. Shreyas Bhat K _ PES2UG20CS332
 
 # CRUD operations implemented in PHP
-# database - mysql engine running on rds
+database - mysql engine running on rds
