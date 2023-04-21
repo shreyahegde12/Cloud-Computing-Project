@@ -8,6 +8,6 @@ Project-3: Deployment of Web App Using AWS Cloud
 3. Shreya R Hegde - PES2UG20CS331
 4. Shreyas Bhat K - PES2UG20CS332
 
-CRUD operations implemented in PHP
 
+CRUD operations implemented in PHP
 Database - mysql engine running on rds
